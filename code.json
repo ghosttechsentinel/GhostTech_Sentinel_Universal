@@ -1,0 +1,11 @@
+{
+  "agency": "Independent",
+  "projectName": "GhostTech Sentinel – Universal Edition",
+  "description": "Cross-platform native security suite for breach detection, SSID/IP geofencing, and lockdown enforcement.",
+  "license": "Custom",
+  "repository": "https://github.com/YourUsername/GhostTech_Sentinel_Universal",
+  "contact": {
+    "email": "your.email@example.com"
+  },
+  "status": "Production"
+}
