@@ -2,4 +2,6 @@ GhostTech Sentinel © 2025 Sean Varvello. All rights reserved.
 
 This software is licensed for personal use only. Redistribution, modification, resale, or commercial deployment is strictly prohibited without written permission from the author.
 
-For licensing inquiries, contact: your.email@example.com
+
+For licensing inquiries, contact: 
+seanvarvello18@gmail.com
